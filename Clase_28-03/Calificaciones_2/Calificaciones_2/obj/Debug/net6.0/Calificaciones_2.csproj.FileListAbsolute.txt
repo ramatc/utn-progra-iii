@@ -1,0 +1,15 @@
+C:\Users\Ramiro\Source\Repos\Calificaciones_2\Calificaciones_2\bin\Debug\net6.0\Calificaciones_2.exe
+C:\Users\Ramiro\Source\Repos\Calificaciones_2\Calificaciones_2\bin\Debug\net6.0\Calificaciones_2.deps.json
+C:\Users\Ramiro\Source\Repos\Calificaciones_2\Calificaciones_2\bin\Debug\net6.0\Calificaciones_2.runtimeconfig.json
+C:\Users\Ramiro\Source\Repos\Calificaciones_2\Calificaciones_2\bin\Debug\net6.0\Calificaciones_2.dll
+C:\Users\Ramiro\Source\Repos\Calificaciones_2\Calificaciones_2\bin\Debug\net6.0\Calificaciones_2.pdb
+C:\Users\Ramiro\Source\Repos\Calificaciones_2\Calificaciones_2\obj\Debug\net6.0\Calificaciones_2.csproj.AssemblyReference.cache
+C:\Users\Ramiro\Source\Repos\Calificaciones_2\Calificaciones_2\obj\Debug\net6.0\Calificaciones_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramiro\Source\Repos\Calificaciones_2\Calificaciones_2\obj\Debug\net6.0\Calificaciones_2.AssemblyInfoInputs.cache
+C:\Users\Ramiro\Source\Repos\Calificaciones_2\Calificaciones_2\obj\Debug\net6.0\Calificaciones_2.AssemblyInfo.cs
+C:\Users\Ramiro\Source\Repos\Calificaciones_2\Calificaciones_2\obj\Debug\net6.0\Calificaciones_2.csproj.CoreCompileInputs.cache
+C:\Users\Ramiro\Source\Repos\Calificaciones_2\Calificaciones_2\obj\Debug\net6.0\Calificaciones_2.dll
+C:\Users\Ramiro\Source\Repos\Calificaciones_2\Calificaciones_2\obj\Debug\net6.0\refint\Calificaciones_2.dll
+C:\Users\Ramiro\Source\Repos\Calificaciones_2\Calificaciones_2\obj\Debug\net6.0\Calificaciones_2.pdb
+C:\Users\Ramiro\Source\Repos\Calificaciones_2\Calificaciones_2\obj\Debug\net6.0\Calificaciones_2.genruntimeconfig.cache
+C:\Users\Ramiro\Source\Repos\Calificaciones_2\Calificaciones_2\obj\Debug\net6.0\ref\Calificaciones_2.dll

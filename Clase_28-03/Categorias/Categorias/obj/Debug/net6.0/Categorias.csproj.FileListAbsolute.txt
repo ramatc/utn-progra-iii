@@ -1,0 +1,15 @@
+C:\Users\Ramiro\Source\Repos\Categorias\Categorias\bin\Debug\net6.0\Categorias.exe
+C:\Users\Ramiro\Source\Repos\Categorias\Categorias\bin\Debug\net6.0\Categorias.deps.json
+C:\Users\Ramiro\Source\Repos\Categorias\Categorias\bin\Debug\net6.0\Categorias.runtimeconfig.json
+C:\Users\Ramiro\Source\Repos\Categorias\Categorias\bin\Debug\net6.0\Categorias.dll
+C:\Users\Ramiro\Source\Repos\Categorias\Categorias\bin\Debug\net6.0\Categorias.pdb
+C:\Users\Ramiro\Source\Repos\Categorias\Categorias\obj\Debug\net6.0\Categorias.csproj.AssemblyReference.cache
+C:\Users\Ramiro\Source\Repos\Categorias\Categorias\obj\Debug\net6.0\Categorias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramiro\Source\Repos\Categorias\Categorias\obj\Debug\net6.0\Categorias.AssemblyInfoInputs.cache
+C:\Users\Ramiro\Source\Repos\Categorias\Categorias\obj\Debug\net6.0\Categorias.AssemblyInfo.cs
+C:\Users\Ramiro\Source\Repos\Categorias\Categorias\obj\Debug\net6.0\Categorias.csproj.CoreCompileInputs.cache
+C:\Users\Ramiro\Source\Repos\Categorias\Categorias\obj\Debug\net6.0\Categorias.dll
+C:\Users\Ramiro\Source\Repos\Categorias\Categorias\obj\Debug\net6.0\refint\Categorias.dll
+C:\Users\Ramiro\Source\Repos\Categorias\Categorias\obj\Debug\net6.0\Categorias.pdb
+C:\Users\Ramiro\Source\Repos\Categorias\Categorias\obj\Debug\net6.0\Categorias.genruntimeconfig.cache
+C:\Users\Ramiro\Source\Repos\Categorias\Categorias\obj\Debug\net6.0\ref\Categorias.dll
