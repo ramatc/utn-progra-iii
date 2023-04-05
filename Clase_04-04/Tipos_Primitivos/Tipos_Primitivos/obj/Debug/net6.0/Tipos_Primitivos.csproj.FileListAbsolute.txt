@@ -1,0 +1,15 @@
+C:\Users\Ramiro\Source\Repos\Tipos_Primitivos\Tipos_Primitivos\bin\Debug\net6.0\Tipos_Primitivos.exe
+C:\Users\Ramiro\Source\Repos\Tipos_Primitivos\Tipos_Primitivos\bin\Debug\net6.0\Tipos_Primitivos.deps.json
+C:\Users\Ramiro\Source\Repos\Tipos_Primitivos\Tipos_Primitivos\bin\Debug\net6.0\Tipos_Primitivos.runtimeconfig.json
+C:\Users\Ramiro\Source\Repos\Tipos_Primitivos\Tipos_Primitivos\bin\Debug\net6.0\Tipos_Primitivos.dll
+C:\Users\Ramiro\Source\Repos\Tipos_Primitivos\Tipos_Primitivos\bin\Debug\net6.0\Tipos_Primitivos.pdb
+C:\Users\Ramiro\Source\Repos\Tipos_Primitivos\Tipos_Primitivos\obj\Debug\net6.0\Tipos_Primitivos.csproj.AssemblyReference.cache
+C:\Users\Ramiro\Source\Repos\Tipos_Primitivos\Tipos_Primitivos\obj\Debug\net6.0\Tipos_Primitivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramiro\Source\Repos\Tipos_Primitivos\Tipos_Primitivos\obj\Debug\net6.0\Tipos_Primitivos.AssemblyInfoInputs.cache
+C:\Users\Ramiro\Source\Repos\Tipos_Primitivos\Tipos_Primitivos\obj\Debug\net6.0\Tipos_Primitivos.AssemblyInfo.cs
+C:\Users\Ramiro\Source\Repos\Tipos_Primitivos\Tipos_Primitivos\obj\Debug\net6.0\Tipos_Primitivos.csproj.CoreCompileInputs.cache
+C:\Users\Ramiro\Source\Repos\Tipos_Primitivos\Tipos_Primitivos\obj\Debug\net6.0\Tipos_Primitivos.dll
+C:\Users\Ramiro\Source\Repos\Tipos_Primitivos\Tipos_Primitivos\obj\Debug\net6.0\refint\Tipos_Primitivos.dll
+C:\Users\Ramiro\Source\Repos\Tipos_Primitivos\Tipos_Primitivos\obj\Debug\net6.0\Tipos_Primitivos.pdb
+C:\Users\Ramiro\Source\Repos\Tipos_Primitivos\Tipos_Primitivos\obj\Debug\net6.0\Tipos_Primitivos.genruntimeconfig.cache
+C:\Users\Ramiro\Source\Repos\Tipos_Primitivos\Tipos_Primitivos\obj\Debug\net6.0\ref\Tipos_Primitivos.dll
