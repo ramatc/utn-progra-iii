@@ -1,0 +1,15 @@
+C:\Users\Ramiro\Source\Repos\Analisis_Numeros\Analisis_Numeros\bin\Debug\net6.0\Analisis_Numeros.exe
+C:\Users\Ramiro\Source\Repos\Analisis_Numeros\Analisis_Numeros\bin\Debug\net6.0\Analisis_Numeros.deps.json
+C:\Users\Ramiro\Source\Repos\Analisis_Numeros\Analisis_Numeros\bin\Debug\net6.0\Analisis_Numeros.runtimeconfig.json
+C:\Users\Ramiro\Source\Repos\Analisis_Numeros\Analisis_Numeros\bin\Debug\net6.0\Analisis_Numeros.dll
+C:\Users\Ramiro\Source\Repos\Analisis_Numeros\Analisis_Numeros\bin\Debug\net6.0\Analisis_Numeros.pdb
+C:\Users\Ramiro\Source\Repos\Analisis_Numeros\Analisis_Numeros\obj\Debug\net6.0\Analisis_Numeros.csproj.AssemblyReference.cache
+C:\Users\Ramiro\Source\Repos\Analisis_Numeros\Analisis_Numeros\obj\Debug\net6.0\Analisis_Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramiro\Source\Repos\Analisis_Numeros\Analisis_Numeros\obj\Debug\net6.0\Analisis_Numeros.AssemblyInfoInputs.cache
+C:\Users\Ramiro\Source\Repos\Analisis_Numeros\Analisis_Numeros\obj\Debug\net6.0\Analisis_Numeros.AssemblyInfo.cs
+C:\Users\Ramiro\Source\Repos\Analisis_Numeros\Analisis_Numeros\obj\Debug\net6.0\Analisis_Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Ramiro\Source\Repos\Analisis_Numeros\Analisis_Numeros\obj\Debug\net6.0\Analisis_Numeros.dll
+C:\Users\Ramiro\Source\Repos\Analisis_Numeros\Analisis_Numeros\obj\Debug\net6.0\refint\Analisis_Numeros.dll
+C:\Users\Ramiro\Source\Repos\Analisis_Numeros\Analisis_Numeros\obj\Debug\net6.0\Analisis_Numeros.pdb
+C:\Users\Ramiro\Source\Repos\Analisis_Numeros\Analisis_Numeros\obj\Debug\net6.0\Analisis_Numeros.genruntimeconfig.cache
+C:\Users\Ramiro\Source\Repos\Analisis_Numeros\Analisis_Numeros\obj\Debug\net6.0\ref\Analisis_Numeros.dll
