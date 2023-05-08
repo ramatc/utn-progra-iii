@@ -1,0 +1,15 @@
+C:\Users\Ramiro\Source\Repos\CReserva\CReserva\obj\Debug\net6.0\CReserva.csproj.AssemblyReference.cache
+C:\Users\Ramiro\Source\Repos\CReserva\CReserva\obj\Debug\net6.0\CReserva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramiro\Source\Repos\CReserva\CReserva\obj\Debug\net6.0\CReserva.AssemblyInfoInputs.cache
+C:\Users\Ramiro\Source\Repos\CReserva\CReserva\obj\Debug\net6.0\CReserva.AssemblyInfo.cs
+C:\Users\Ramiro\Source\Repos\CReserva\CReserva\obj\Debug\net6.0\CReserva.csproj.CoreCompileInputs.cache
+C:\Users\Ramiro\Source\Repos\CReserva\CReserva\bin\Debug\net6.0\CReserva.exe
+C:\Users\Ramiro\Source\Repos\CReserva\CReserva\bin\Debug\net6.0\CReserva.deps.json
+C:\Users\Ramiro\Source\Repos\CReserva\CReserva\bin\Debug\net6.0\CReserva.runtimeconfig.json
+C:\Users\Ramiro\Source\Repos\CReserva\CReserva\bin\Debug\net6.0\CReserva.dll
+C:\Users\Ramiro\Source\Repos\CReserva\CReserva\bin\Debug\net6.0\CReserva.pdb
+C:\Users\Ramiro\Source\Repos\CReserva\CReserva\obj\Debug\net6.0\CReserva.dll
+C:\Users\Ramiro\Source\Repos\CReserva\CReserva\obj\Debug\net6.0\refint\CReserva.dll
+C:\Users\Ramiro\Source\Repos\CReserva\CReserva\obj\Debug\net6.0\CReserva.pdb
+C:\Users\Ramiro\Source\Repos\CReserva\CReserva\obj\Debug\net6.0\CReserva.genruntimeconfig.cache
+C:\Users\Ramiro\Source\Repos\CReserva\CReserva\obj\Debug\net6.0\ref\CReserva.dll
