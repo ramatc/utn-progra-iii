@@ -1,0 +1,15 @@
+C:\Users\Ramiro\Source\Repos\CPaquete\CPaquete\obj\Debug\net6.0\CPaquete.csproj.AssemblyReference.cache
+C:\Users\Ramiro\Source\Repos\CPaquete\CPaquete\obj\Debug\net6.0\CPaquete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramiro\Source\Repos\CPaquete\CPaquete\obj\Debug\net6.0\CPaquete.AssemblyInfoInputs.cache
+C:\Users\Ramiro\Source\Repos\CPaquete\CPaquete\obj\Debug\net6.0\CPaquete.AssemblyInfo.cs
+C:\Users\Ramiro\Source\Repos\CPaquete\CPaquete\obj\Debug\net6.0\CPaquete.csproj.CoreCompileInputs.cache
+C:\Users\Ramiro\Source\Repos\CPaquete\CPaquete\bin\Debug\net6.0\CPaquete.exe
+C:\Users\Ramiro\Source\Repos\CPaquete\CPaquete\bin\Debug\net6.0\CPaquete.deps.json
+C:\Users\Ramiro\Source\Repos\CPaquete\CPaquete\bin\Debug\net6.0\CPaquete.runtimeconfig.json
+C:\Users\Ramiro\Source\Repos\CPaquete\CPaquete\bin\Debug\net6.0\CPaquete.dll
+C:\Users\Ramiro\Source\Repos\CPaquete\CPaquete\bin\Debug\net6.0\CPaquete.pdb
+C:\Users\Ramiro\Source\Repos\CPaquete\CPaquete\obj\Debug\net6.0\CPaquete.dll
+C:\Users\Ramiro\Source\Repos\CPaquete\CPaquete\obj\Debug\net6.0\refint\CPaquete.dll
+C:\Users\Ramiro\Source\Repos\CPaquete\CPaquete\obj\Debug\net6.0\CPaquete.pdb
+C:\Users\Ramiro\Source\Repos\CPaquete\CPaquete\obj\Debug\net6.0\CPaquete.genruntimeconfig.cache
+C:\Users\Ramiro\Source\Repos\CPaquete\CPaquete\obj\Debug\net6.0\ref\CPaquete.dll
