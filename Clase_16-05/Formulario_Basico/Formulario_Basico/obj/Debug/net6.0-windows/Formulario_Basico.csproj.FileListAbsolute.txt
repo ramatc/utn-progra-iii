@@ -1,0 +1,17 @@
+C:\Users\Ramiro\Source\Repos\Formulario_Basico\Formulario_Basico\obj\Debug\net6.0-windows\Formulario_Basico.csproj.AssemblyReference.cache
+C:\Users\Ramiro\Source\Repos\Formulario_Basico\Formulario_Basico\obj\Debug\net6.0-windows\Formulario_Basico.csproj.GenerateResource.cache
+C:\Users\Ramiro\Source\Repos\Formulario_Basico\Formulario_Basico\obj\Debug\net6.0-windows\Formulario_Basico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramiro\Source\Repos\Formulario_Basico\Formulario_Basico\obj\Debug\net6.0-windows\Formulario_Basico.AssemblyInfoInputs.cache
+C:\Users\Ramiro\Source\Repos\Formulario_Basico\Formulario_Basico\obj\Debug\net6.0-windows\Formulario_Basico.AssemblyInfo.cs
+C:\Users\Ramiro\Source\Repos\Formulario_Basico\Formulario_Basico\obj\Debug\net6.0-windows\Formulario_Basico.csproj.CoreCompileInputs.cache
+C:\Users\Ramiro\Source\Repos\Formulario_Basico\Formulario_Basico\bin\Debug\net6.0-windows\Formulario_Basico.exe
+C:\Users\Ramiro\Source\Repos\Formulario_Basico\Formulario_Basico\bin\Debug\net6.0-windows\Formulario_Basico.deps.json
+C:\Users\Ramiro\Source\Repos\Formulario_Basico\Formulario_Basico\bin\Debug\net6.0-windows\Formulario_Basico.runtimeconfig.json
+C:\Users\Ramiro\Source\Repos\Formulario_Basico\Formulario_Basico\bin\Debug\net6.0-windows\Formulario_Basico.dll
+C:\Users\Ramiro\Source\Repos\Formulario_Basico\Formulario_Basico\bin\Debug\net6.0-windows\Formulario_Basico.pdb
+C:\Users\Ramiro\Source\Repos\Formulario_Basico\Formulario_Basico\obj\Debug\net6.0-windows\Formulario_Basico.frmPrincipal.resources
+C:\Users\Ramiro\Source\Repos\Formulario_Basico\Formulario_Basico\obj\Debug\net6.0-windows\Formulario_Basico.dll
+C:\Users\Ramiro\Source\Repos\Formulario_Basico\Formulario_Basico\obj\Debug\net6.0-windows\refint\Formulario_Basico.dll
+C:\Users\Ramiro\Source\Repos\Formulario_Basico\Formulario_Basico\obj\Debug\net6.0-windows\Formulario_Basico.pdb
+C:\Users\Ramiro\Source\Repos\Formulario_Basico\Formulario_Basico\obj\Debug\net6.0-windows\Formulario_Basico.genruntimeconfig.cache
+C:\Users\Ramiro\Source\Repos\Formulario_Basico\Formulario_Basico\obj\Debug\net6.0-windows\ref\Formulario_Basico.dll
