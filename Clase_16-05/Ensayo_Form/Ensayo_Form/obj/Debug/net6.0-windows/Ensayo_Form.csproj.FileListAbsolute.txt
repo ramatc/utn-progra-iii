@@ -1,0 +1,17 @@
+C:\Users\Ramiro\Source\Repos\Ensayo_Form\Ensayo_Form\bin\Debug\net6.0-windows\Ensayo_Form.exe
+C:\Users\Ramiro\Source\Repos\Ensayo_Form\Ensayo_Form\bin\Debug\net6.0-windows\Ensayo_Form.deps.json
+C:\Users\Ramiro\Source\Repos\Ensayo_Form\Ensayo_Form\bin\Debug\net6.0-windows\Ensayo_Form.runtimeconfig.json
+C:\Users\Ramiro\Source\Repos\Ensayo_Form\Ensayo_Form\bin\Debug\net6.0-windows\Ensayo_Form.dll
+C:\Users\Ramiro\Source\Repos\Ensayo_Form\Ensayo_Form\bin\Debug\net6.0-windows\Ensayo_Form.pdb
+C:\Users\Ramiro\Source\Repos\Ensayo_Form\Ensayo_Form\obj\Debug\net6.0-windows\Ensayo_Form.csproj.AssemblyReference.cache
+C:\Users\Ramiro\Source\Repos\Ensayo_Form\Ensayo_Form\obj\Debug\net6.0-windows\Ensayo_Form.frmPrincipal.resources
+C:\Users\Ramiro\Source\Repos\Ensayo_Form\Ensayo_Form\obj\Debug\net6.0-windows\Ensayo_Form.csproj.GenerateResource.cache
+C:\Users\Ramiro\Source\Repos\Ensayo_Form\Ensayo_Form\obj\Debug\net6.0-windows\Ensayo_Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramiro\Source\Repos\Ensayo_Form\Ensayo_Form\obj\Debug\net6.0-windows\Ensayo_Form.AssemblyInfoInputs.cache
+C:\Users\Ramiro\Source\Repos\Ensayo_Form\Ensayo_Form\obj\Debug\net6.0-windows\Ensayo_Form.AssemblyInfo.cs
+C:\Users\Ramiro\Source\Repos\Ensayo_Form\Ensayo_Form\obj\Debug\net6.0-windows\Ensayo_Form.csproj.CoreCompileInputs.cache
+C:\Users\Ramiro\Source\Repos\Ensayo_Form\Ensayo_Form\obj\Debug\net6.0-windows\Ensayo_Form.dll
+C:\Users\Ramiro\Source\Repos\Ensayo_Form\Ensayo_Form\obj\Debug\net6.0-windows\refint\Ensayo_Form.dll
+C:\Users\Ramiro\Source\Repos\Ensayo_Form\Ensayo_Form\obj\Debug\net6.0-windows\Ensayo_Form.pdb
+C:\Users\Ramiro\Source\Repos\Ensayo_Form\Ensayo_Form\obj\Debug\net6.0-windows\Ensayo_Form.genruntimeconfig.cache
+C:\Users\Ramiro\Source\Repos\Ensayo_Form\Ensayo_Form\obj\Debug\net6.0-windows\ref\Ensayo_Form.dll
