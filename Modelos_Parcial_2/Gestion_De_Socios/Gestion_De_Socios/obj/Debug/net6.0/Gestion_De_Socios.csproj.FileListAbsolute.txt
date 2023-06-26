@@ -1,0 +1,15 @@
+C:\Users\Ramiro\Source\Repos\Gestion_De_Socios\Gestion_De_Socios\bin\Debug\net6.0\Gestion_De_Socios.exe
+C:\Users\Ramiro\Source\Repos\Gestion_De_Socios\Gestion_De_Socios\bin\Debug\net6.0\Gestion_De_Socios.deps.json
+C:\Users\Ramiro\Source\Repos\Gestion_De_Socios\Gestion_De_Socios\bin\Debug\net6.0\Gestion_De_Socios.runtimeconfig.json
+C:\Users\Ramiro\Source\Repos\Gestion_De_Socios\Gestion_De_Socios\bin\Debug\net6.0\Gestion_De_Socios.dll
+C:\Users\Ramiro\Source\Repos\Gestion_De_Socios\Gestion_De_Socios\bin\Debug\net6.0\Gestion_De_Socios.pdb
+C:\Users\Ramiro\Source\Repos\Gestion_De_Socios\Gestion_De_Socios\obj\Debug\net6.0\Gestion_De_Socios.csproj.AssemblyReference.cache
+C:\Users\Ramiro\Source\Repos\Gestion_De_Socios\Gestion_De_Socios\obj\Debug\net6.0\Gestion_De_Socios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramiro\Source\Repos\Gestion_De_Socios\Gestion_De_Socios\obj\Debug\net6.0\Gestion_De_Socios.AssemblyInfoInputs.cache
+C:\Users\Ramiro\Source\Repos\Gestion_De_Socios\Gestion_De_Socios\obj\Debug\net6.0\Gestion_De_Socios.AssemblyInfo.cs
+C:\Users\Ramiro\Source\Repos\Gestion_De_Socios\Gestion_De_Socios\obj\Debug\net6.0\Gestion_De_Socios.csproj.CoreCompileInputs.cache
+C:\Users\Ramiro\Source\Repos\Gestion_De_Socios\Gestion_De_Socios\obj\Debug\net6.0\Gestion_De_Socios.dll
+C:\Users\Ramiro\Source\Repos\Gestion_De_Socios\Gestion_De_Socios\obj\Debug\net6.0\refint\Gestion_De_Socios.dll
+C:\Users\Ramiro\Source\Repos\Gestion_De_Socios\Gestion_De_Socios\obj\Debug\net6.0\Gestion_De_Socios.pdb
+C:\Users\Ramiro\Source\Repos\Gestion_De_Socios\Gestion_De_Socios\obj\Debug\net6.0\Gestion_De_Socios.genruntimeconfig.cache
+C:\Users\Ramiro\Source\Repos\Gestion_De_Socios\Gestion_De_Socios\obj\Debug\net6.0\ref\Gestion_De_Socios.dll
